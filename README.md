@@ -1,10 +1,10 @@
 # api_call_demo
 
-A new Flutter application.
+A Simple Flutter App Demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project shows how to call simple API req. using Http library.
 
 A few resources to get you started if this is your first Flutter project:
 
